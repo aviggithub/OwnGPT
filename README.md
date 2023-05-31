@@ -1,4 +1,4 @@
-# owngpt
+# OwnGPT
 Create Own ChatGPT with your documents using streamlit UI on your own device using GPT models. No data leaves your device and 100% private.
 
 
@@ -60,6 +60,9 @@ This command launches the Streamlit app and connects it to the backend server ru
 And wait for "http://localhost:8501/" web App running on local system.
 
 Enter your Query in TextBox and Hit enter. Wait while the LLM model consumes the prompt and prepares the answer. show your query and answer below TextBox. as show in below figure.
+
+
+![own private gpt](https://github.com/aviggithub/owngpt/assets/46967951/938e588e-5f7d-48e5-b63f-0db925071886)
 
 
 # How does it work?
