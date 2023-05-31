@@ -1,0 +1,71 @@
+ChatGPT
+Examples
+	Explain quantum computing in simple terms
+	Got any creative ideas for a 10 year old’s birthday?
+	How do I make an HTTP request in Javascript?
+Capabilities
+	Remembers what user said earlier in the conversation
+	Allows user to provide follow-up corrections
+	Trained to decline inappropriate requests
+Limitations
+	May occasionally generate incorrect information
+	May occasionally produce harmful instructions or biased content
+	Limited knowledge of world and events after 2021
+	
+
+ChatGPT FAQ
+Commonly asked questions about ChatGPT
+Natalie avatar
+Written by Natalie
+Updated today
+How much does it cost to use ChatGPT?
+
+	During the initial research preview, ChatGPT is free to use.
+
+How does ChatGPT work?
+
+	ChatGPT is fine-tuned from GPT-3.5, a language model trained to produce text. ChatGPT was optimized for dialogue by using Reinforcement Learning with Human Feedback (RLHF) – a method that uses human demonstrations to guide the model toward desired behavior.
+
+Why does the AI seem so real and lifelike? 
+
+	These models were trained on vast amounts of data from the internet written by humans, including conversations, so the responses it provides may sound human-like. It is important to keep in mind that this is a direct result of the system's design (i.e. maximizing the similarity between outputs and the dataset the models were trained on) and that such outputs may be inaccurate, untruthful, and otherwise misleading at times.
+
+Can I trust that the AI is telling me the truth?
+
+	ChatGPT is not connected to the internet, and it can occasionally produce incorrect answers. It has limited knowledge of world and events after 2021 and may also occasionally produce harmful instructions or biased content.
+
+	We'd recommend checking whether responses from the model are accurate or not. If you find an answer is incorrect, please provide that feedback by using the "Thumbs Down" button.
+
+Who can view my conversations?
+
+	As part of our commitment to safe and responsible AI, we review conversations to improve our systems and to ensure the content complies with our policies and safety requirements. 
+
+Will you use my conversations for training?
+
+	Yes. Your conversations may be reviewed by our AI trainers to improve our systems.
+
+Can you delete my data?
+
+	Yes, please follow the data deletion process here: https://help.openai.com/en/articles/6378407-how-can-i-delete-my-account
+
+Can you delete specific prompts?
+
+	No, we are not able to delete specific prompts from your history. Please don't share any sensitive information in your conversations.
+
+Can I see my history of threads? How can I save a conversation I’ve had?
+
+	No, a view of your conversation history is not possible at this time, but this is a feature we are looking into.
+
+Where do you save my personal and conversation data?
+
+	For more information on how we handle data, please see our Privacy Policy and Terms of Use.
+
+How can I implement this? Is there any implementation guide for this?
+
+	ChatGPT is being made available as a research preview so we can learn about its strengths and weaknesses. It is not available in the API.
+
+Do I need a new account if I already have a Labs or Playground account?
+
+	If you have an existing account at labs.openai.com or beta.openai.com, then you can login directly at chat.openai.com using the same login information. If you don't have an account, you'll need to sign-up for a new account at chat.openai.com.
+	
+	
